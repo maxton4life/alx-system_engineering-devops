@@ -7,4 +7,9 @@ The sixth script creates a directory named myfirstdirectory
 The Seventh script creates a betty file in the myfirstdirectory
 The Eight script delete the betty file from the myfirstdirectory
 The Ninth script deletes the myfirstdirectory
-The Tenth script changes to the working directory to theprevious one  
+The Tenth script changes to the working directory to theprevious one
+The eleventh file list all files even with ones with periods
+The twelveth script prints the type of file named 
+The thirteenth script creates a sym link in the current working directory
+The fourteeth script copy all html files from the working directory to the parent of the working directory
+   
