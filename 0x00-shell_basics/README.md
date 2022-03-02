@@ -6,3 +6,4 @@ The fourth script ls -la list all directory file contents including hidden files
 The sixth script creates a directory named myfirstdirectory
 The Seventh script creates a betty file in the myfirstdirectory
 The Eight script delete the betty file from the myfirstdirectory
+The Ninth script deletes the myfirstdirectory 
