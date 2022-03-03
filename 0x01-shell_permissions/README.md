@@ -5,4 +5,5 @@ script 3 changes the owner of a file to the user betty.
 script 4 creates a new file hello at execution.
 script 5 adds permission to the owner of the file hello.
 script 6 adds multiple permission to the owner and group owner of file hello.
+script 7 gives permissions to everyone both the user groups and others.
 
