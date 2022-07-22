@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# prints Best School tens times using while
+
+#script begins here
+i=0
+#iteration
+while [ $i -le 10 ]
+do
+	echo "Best School"
+	((i++))
+done
