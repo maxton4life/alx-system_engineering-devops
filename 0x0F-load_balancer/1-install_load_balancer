@@ -11,7 +11,7 @@ frontend maxton4life
     default_backend app
 backend app
     balance roundrobin
-    server 6369-web-01 44.200.111.35:80 check
-    server 6369-web-02 3.238.84.38:80 check" >> /etc/haproxy/haproxy.cfg
+    server 27205-web-01 44.200.111.35:80 check
+    server 27205-web-02 3.238.84.38:80 check" >> /etc/haproxy/haproxy.cfg
 
 sudo service haproxy restart
